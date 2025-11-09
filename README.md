@@ -60,3 +60,5 @@ criptografia.py
 ## 📝Licença
 
 Este projeto está sob a licença MIT.
+
+✨ "A criptografia é a arte de transformar segredos em enigmas e a ciência de trazê-los de volta."
